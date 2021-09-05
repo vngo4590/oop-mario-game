@@ -1,0 +1,10 @@
+{
+  "_levelFilesComment" : "All configuration files will be loaded here",
+  "levelFiles": [
+    "vertical.json",
+    "level2.json",
+    "level3.json"
+  ],
+  "_gameLivesComment" : "Because this file contains all necessary files that represent the level, we stickman's lives shall be declared here",
+  "gameLives" : 1
+}

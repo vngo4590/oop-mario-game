@@ -1,0 +1,7 @@
+{
+  "levelFiles": [
+    "vertical.json"
+  ],
+  "_gameLivesComment" : "Because this file contains all necessary files that represent the level, we stickman's lives shall be declared here",
+  "gameLives" : 3
+}
